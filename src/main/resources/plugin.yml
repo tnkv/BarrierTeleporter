@@ -1,0 +1,5 @@
+name: BarrierTeleporter
+version: '${version}'
+main: ru.tnkv.barrierteleporter.Main
+api-version: '1.20'
+authors: [tnkv]
